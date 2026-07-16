@@ -1,0 +1,19 @@
+year,branch_name,region,total_txns,total_volume_ugx_m,active_accounts,volume_rank,yoy_change_ugx_m
+2022,Entebbe,Central,1101,2356.95,163,1,
+2022,Mbarara,Western,1184,2323.61,182,2,
+2022,Kampala Main,Central,1133,2227.81,184,3,
+2022,Nakawa,Central,1056,2064.05,169,4,
+2022,Ntinda,Central,1037,1974.42,166,5,
+2022,Jinja,Eastern,969,1850.75,156,6,
+2023,Ntinda,Central,1151,2467.21,167,1,492.79
+2023,Kampala Main,Central,1207,2423.34,184,2,195.53
+2023,Mbarara,Western,1149,2322.91,181,3,-0.7
+2023,Nakawa,Central,1129,2292.59,170,4,228.54
+2023,Entebbe,Central,1079,2204.4,163,5,-152.55
+2023,Jinja,Eastern,960,1842.03,156,6,-8.72
+2024,Mbarara,Western,1230,2501.25,181,1,178.34
+2024,Kampala Main,Central,1224,2414.87,184,2,-8.47
+2024,Entebbe,Central,1092,2267.96,163,3,63.56
+2024,Jinja,Eastern,1061,2220.38,156,4,378.35
+2024,Ntinda,Central,1150,2171.15,167,5,-296.06
+2024,Nakawa,Central,1088,2157.12,171,6,-135.47

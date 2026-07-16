@@ -1,0 +1,20 @@
+branch_name,branch_rank,customer_id,segment,total_volume_ugx_m,txn_count
+Entebbe,1,CUST-0392,At Risk,121.02,43
+Entebbe,2,CUST-0049,At Risk,94.82,43
+Entebbe,3,CUST-0113,Promising,92.58,39
+Jinja,1,CUST-0433,Champion,100.78,49
+Jinja,2,CUST-0219,Champion,97.8,44
+Jinja,3,CUST-0181,At Risk,95.43,50
+Kampala Main,1,CUST-0457,At Risk,163.24,70
+Kampala Main,2,CUST-0103,At Risk,126.57,48
+Kampala Main,3,CUST-0488,At Risk,124.37,71
+Mbarara,1,CUST-0194,Lost,128.92,51
+Mbarara,2,CUST-0177,Champion,106.87,65
+Mbarara,3,CUST-0309,At Risk,93.21,47
+Nakawa,1,CUST-0306,Champion,112.61,64
+Nakawa,2,CUST-0498,Champion,98.35,47
+Nakawa,3,CUST-0347,Lost,97.05,40
+Nakawa,3,CUST-0019,Lost,97.05,47
+Ntinda,1,CUST-0171,Lost,112.87,64
+Ntinda,2,CUST-0438,Lost,111.14,48
+Ntinda,3,CUST-0259,Loyal,88.31,45

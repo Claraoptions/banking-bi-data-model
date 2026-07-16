@@ -1,0 +1,6 @@
+segment,customers,avg_products_held,max_products_held,avg_spend_ugx_m,total_segment_value_ugx_m
+Lost,107,1.92,3,85.04,9099.69
+Loyal,110,1.79,3,77.77,8554.74
+At Risk,95,1.88,3,84.43,8020.98
+Promising,99,1.81,3,73.47,7273.61
+Champion,89,1.85,3,80.16,7133.8
