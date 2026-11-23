@@ -1,5 +1,5 @@
 # Banking BI Data Model & Reporting
-*Dashboard runs locally with Streamlit — see [How to Run](#how-to-run).*
+🔗 **[Live Dashboard](https://banking-bi-data-model-4yej2wapphqu6c3mep2msh.streamlit.app/)** — hosted on Streamlit Community Cloud; if idle, it may ask you to wake it up (about 30 seconds).
 **Ayebazibwe Clare Mujuni | Banking Data Analyst Portfolio**
 
 ---

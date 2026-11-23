@@ -22,7 +22,7 @@ q5 = pd.read_csv("query5_top_customers_by_branch.csv")
 
 # ── Header ────────────────────────────────────────────────
 st.title("🏦 Banking BI Information System")
-st.markdown("**Commercial Performance Dashboard | Clara Mujuni**")
+st.markdown("**Commercial Performance Dashboard (simulated data) | Ayebazibwe Clare Mujuni**")
 st.divider()
 
 # ── KPI Cards ─────────────────────────────────────────────
