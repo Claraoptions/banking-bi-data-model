@@ -1,6 +1,6 @@
-# Banking BI Data Model & Reporting IS
-🔗 **[Live Dashboard](YOUR_STREAMLIT_URL_HERE)**
-***Ayebazibwe Clare Mujuni | Banking Data Analyst Portfolio**
+# Banking BI Data Model & Reporting
+*Dashboard runs locally with Streamlit — see [How to Run](#how-to-run).*
+**Ayebazibwe Clare Mujuni | Banking Data Analyst Portfolio**
 
 ---
 
@@ -16,6 +16,8 @@ data model populated via an ETL pipeline, with five advanced analytical
 SQL queries and an interactive Streamlit dashboard on top.
 
 ---
+
+> **Data note:** All data in this project is synthetic. It is generated (with a fixed random seed) in `01_star_schema.ipynb` to simulate a Ugandan retail bank with 6 branches. Branch names, customers and amounts are illustrative and do not represent any real bank or customer.
 
 ## Architecture
 dim_date
@@ -58,7 +60,7 @@ in banking BI teams worldwide (Kimball dimensional modelling).
 
 ---
 
-## Key Findings
+## Key Findings (on the simulated data)
 
 **UGX 40B** total transaction volume across 3 years and 6 branches
 
@@ -96,7 +98,7 @@ Interactive Streamlit dashboard with:
 
 ```bash
 pip install -r requirements.txt
-python 01_star_schema.ipynb   # or run notebook cells in order
+jupyter notebook 01_star_schema.ipynb   # run all cells to build the model and query outputs
 streamlit run dashboard.py
 ```
 
